@@ -1,2 +1,2 @@
-# Aashish1Tripathi.OnlineVotingSystem
+# OnlineVotingSystem
 
